@@ -1,2 +1,2 @@
-# 5mnetworks-store
+# 5mwifi-store
 Cashless Voucher Store
